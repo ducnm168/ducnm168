@@ -1,5 +1,9 @@
 # Hi 👋, I'm Nguyen Minh Duc 
-### An intern developer from Vietnam  
+### An intern developer from VietNam  
 
-Technologies I use:
-- ReactJS / JavaScript / NodeJS / MongoDB
+![Welcome](https://your-image-url.com/welcome.png)
+
+🔧 Technologies I use:
+- JavaScript / ReactJS / NodeJS  
+- MongoDB / Firebase  
+- Git / GitHub / Docker  
