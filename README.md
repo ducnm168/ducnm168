@@ -3,7 +3,7 @@
 # Hi 👋, I'm Nguyen Minh Duc
 ### An intern developer from VietNam
 
-<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" alt="Welcome" />
+<img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" width="100%" alt="Welcome" />
 
 </div>
 
