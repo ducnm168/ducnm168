@@ -10,7 +10,7 @@
 
 ## 📬 How to reach me
 
-📧 Email: [ductiny2003@gmail.com](mailto:ductiny2003@gmail.com)
+Email: [ductiny2003@gmail.com](mailto:ductiny2003@gmail.com)
 
 
 ## 🛠️ Languages and Tools
