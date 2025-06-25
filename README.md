@@ -31,15 +31,8 @@
 
 
 ## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/kusnnn" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/ducnm._" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/kusnnn)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/ducnm._)
+
 
