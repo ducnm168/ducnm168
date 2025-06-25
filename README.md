@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-icon.svg" alt="Postman" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   
 </p>
