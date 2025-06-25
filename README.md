@@ -1,9 +1,16 @@
-# Hi 👋, I'm Nguyen Minh Duc 
-### An intern developer from VietNam  
+<div align="center">
 
-![Welcome](https://your-image-url.com/welcome.png)
+# Hi 👋, I'm Nguyen Minh Duc
 
-🔧 Technologies I use:
+### An intern developer from VietNam
+
+<img src="https://your-link.com/image.png" alt="Welcome" />
+
+</div>
+
+---
+
+### 🛠️ Technologies I use:
 - JavaScript / ReactJS / NodeJS  
 - MongoDB / Firebase  
 - Git / GitHub / Docker  
