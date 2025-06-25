@@ -33,7 +33,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a style="text-decoration:none" href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/kusnnn" target="_blank">
