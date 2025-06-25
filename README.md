@@ -31,16 +31,16 @@
 
 
 ## 🌐 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
+" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/kusnnn" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/ducnm._" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank">
+    <img src="" alt="Instagram"/>
   </a>
 </p>
 
