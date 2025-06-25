@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-user-interfaces-logo-color-tal-revivo.png" alt="TailwindCSS"/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
@@ -43,9 +42,6 @@
   </a>
   <a href="https://www.instagram.com/ducnm._" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://hashnode.com/@your-hashnode" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/000000/hashnode.png" alt="Hashnode"/>
   </a>
 </p>
 
