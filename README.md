@@ -8,9 +8,44 @@
 
 </div>
 
----
 
-### 🛠️ Technologies I use:
-- JavaScript / ReactJS / NodeJS  
-- MongoDB / Firebase  
-- Git / GitHub / Docker  
+## 📬 How to reach me
+
+📧 Email: [ductiny2003@gmail.com](mailto:ductiny2003@gmail.com)
+
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-tailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-user-interfaces-logo-color-tal-revivo.png" alt="TailwindCSS"/>
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  
+</p>
+
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/kusnnn" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ducnm._" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://hashnode.com/@your-hashnode" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/hashnode.png" alt="Hashnode"/>
+  </a>
+</p>
+
