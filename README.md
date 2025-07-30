@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Nguyen Minh Duc
-### An intern developer from VietNam
+### An intern developer from Viet Nam
 
 <img src="https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif" width="700" alt="Welcome" />
 
